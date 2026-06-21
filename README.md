@@ -1,17 +1,7 @@
-# Celebal Excellence Internship 2026
+# Celebal Excellence Internship
 
-## Week 1 Assignment
+This repository contains my weekly assignments completed as part of the Celebal Excellence Internship Program.
 
-Submitted by: Riya Adep
-
-### Topics Covered
-- Python Basics
-- Functions & Exception Handling
-- NumPy
-- Pandas
-- Linear Algebra
-- Statistics
-- Hypothesis Testing
-- Bayes Theorem
-- Central Limit Theorem
-- Model Monitoring
+Contents:
+- Week 1: Statistics and Probability Assignment
+- Week 2: Tesla Deliveries End-to-End Machine Learning Pipeline
